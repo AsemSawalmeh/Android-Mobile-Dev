@@ -1,0 +1,3 @@
+com.example.trackmaniaexchange.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

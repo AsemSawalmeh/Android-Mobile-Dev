@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-merged_res-32:\\drawable_tmx_logo.png.flat",
+        "source": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-main-34:\\drawable\\tmx_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-merged_res-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.trackmaniaexchange.app-merged_res-32:/layout_activity_login.xml.flat",
+        "source": "com.example.trackmaniaexchange.app-main-34:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-merged_res-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-merged_res-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-merged_res-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-merged_res-32:\\layout_activity_popular_tracks.xml.flat",
+        "source": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-main-34:\\layout\\activity_popular_tracks.xml"
+    },
+    {
+        "merged": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.trackmaniaexchange.app-merged_res-32:/layout_activity_landing_page.xml.flat",
+        "source": "com.example.trackmaniaexchange.app-main-34:/layout/activity_landing_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-merged_res-32:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-main-34:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "com.example.trackmaniaexchange.app-merged_res-32:/layout_activity_register.xml.flat",
+        "source": "com.example.trackmaniaexchange.app-main-34:/layout/activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-merged_res-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-merged_res-32:\\layout_video_record.xml.flat",
+        "source": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-main-34:\\layout\\video_record.xml"
+    },
+    {
+        "merged": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-merged_res-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-merged_res-32:\\drawable_logout.png.flat",
+        "source": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-main-34:\\drawable\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-merged_res-32:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-main-34:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-merged_res-32:\\layout_activity_landing_page.xml.flat",
+        "source": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-main-34:\\layout\\activity_landing_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-merged_res-32:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-main-34:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-merged_res-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-merged_res-32:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-main-34:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-merged_res-32:\\layout_item_track_record.xml.flat",
+        "source": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-main-34:\\layout\\item_track_record.xml"
+    },
+    {
+        "merged": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-merged_res-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-merged_res-32:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\asems\\.gradle\\daemon\\7.5\\com.example.trackmaniaexchange.app-main-34:\\xml\\network_security_config.xml"
+    }
+]
