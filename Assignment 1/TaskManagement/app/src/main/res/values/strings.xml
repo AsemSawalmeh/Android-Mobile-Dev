@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Task Management</string>
-    <string-array name="taskStatusArray">
-        <item>Completed</item>
-        <item>Pending</item>
-        <item>OverDue</item>
-    </string-array>
-</resources>
